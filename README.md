@@ -12,7 +12,7 @@ Here's a nice description
 Here's additional description
 
 ## Visuals
-![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization1.png)
+![Horiseon](./assets/images/horiseon-search-engine-optimization1.png)
 
 ## Resources
 [Live Site](https://vmalie3.github.io/seo-refactor/)
