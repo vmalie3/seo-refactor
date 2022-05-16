@@ -81,6 +81,7 @@ main {
 }
 
 /*First Block: Search Engine Optimization*/
+/*Removed classes in HTML; responded by altering pathways in CSS;  removed duplicates*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -90,7 +91,6 @@ main {
     color: #ffffff;
 }
 
-/*Changed specific classes to one main section;  removed duplicates*/
 main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -109,7 +109,7 @@ main section {
     color: #ffffff;
 }
 
-/*Styling the Side Block*/
+/*Styling the Side Block with Consolidation*/
 aside {
     margin-right: 20px;
     padding: 20px;
