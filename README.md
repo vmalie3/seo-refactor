@@ -1,9 +1,9 @@
-# Title
+# Horiseon SEO Refactor
 
 ## Table of Contents
 1. [Description](#description)
-2. [Usage](#usage)
-3. [Visuals](#visuals)
+2. [Visuals](#visuals)
+3. [Resources](#resources)
 
 ## Description
 
@@ -11,11 +11,10 @@ Here's a nice description
 
 Here's additional description
 
-## Usage
-
 ## Visuals
-![image](./assets/images/digital-marketing-meeting.jpg)
+![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization1.png)
 
-```html
-<p>
-```
+## Resources
+[Live Site](https://vmalie3.github.io/seo-refactor/)
+
+[Repository](https://github.com/vmalie3/seo-refactor)
