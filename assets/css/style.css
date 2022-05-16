@@ -23,12 +23,14 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+/*got rid of header since only 1 h1*/
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+/*removed header h1 because unnecessary*/
+.seo {
     color: #d9dcd6;
 }
 
